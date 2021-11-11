@@ -1,0 +1,26 @@
+{
+    "Name" : {
+       "Fullname" : "Naveen Simma"
+       , "Designation" : "Tools Engineer"
+       , "Experience" : "1+ Years"
+       , "Location" : "NOIDA, UP , IN"
+     }
+     ,  "Self-taught" : true
+     ,  "Motivated" : true
+     ,  "Passionated" : true
+     ,  "focused" : true
+     ,  "Interests" :  [ "Developing Devops Codes", "Solve interesting problems", "Learning new technologies" ]     
+     , "Specialties" : ["YAML", "Ansible", "DXIM" , "Moogsoft" , "JavaScript", "React", "Node"]
+     , "Sills" : ["Ansible" , "YAML", "DXIM" , "HTML", "CSS", "Javascript",  "React", "MOOGSOFT", "NodeJs", "Java", "C", "Testing"]
+
+     , "Contact" : { 
+	     "linkedin" : {
+	           "href" : "https://www.linkedin.com/in/naveen-simma"
+	     }
+	     , "github" : {
+	           "href" : "https://github.com/naveensimma1998"
+	     }
+         , "email" : "simmanaveen1234@gmail.com"
+         , "phone" : "91-9989818428"
+     }  
+}
